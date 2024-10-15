@@ -1,5 +1,11 @@
 console.log("Hello, World!");
 
+let name ="YOUSSEF";
+let age =38;
+let color = "Blue";
+
+console.log(`My name is ${name}, I am ${age} years old and my favorite color is ${color}`);
+
 
 /*
 PRACTICE
